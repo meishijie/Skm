@@ -1,9 +1,9 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "top1",
+  "_name": "left2",
   "_objFlags": 0,
   "_rawFiles": null,
-  "_duration": 1,
+  "_duration": 1.0166666666666666,
   "sample": 60,
   "speed": 1,
   "wrapMode": 1,
@@ -13,26 +13,26 @@
         {
           "frame": 0,
           "value": [
-            16,
-            606
+            -1002,
+            -211
           ],
+          "curve": "cubicOut",
           "motionPath": [
             [
-              -31.4,
-              430,
-              -24.9,
-              518.8,
-              -37.9,
-              341.1
+              -764,
+              -220,
+              -878,
+              -232,
+              -652,
+              -209
             ]
-          ],
-          "curve": "cubicOut"
+          ]
         },
         {
-          "frame": 1,
+          "frame": 1.0166666666666666,
           "value": [
-            46.2,
-            257.1
+            -549,
+            -165
           ],
           "motionPath": []
         }

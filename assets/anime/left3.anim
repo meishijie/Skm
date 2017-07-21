@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "top1",
+  "_name": "left3",
   "_objFlags": 0,
   "_rawFiles": null,
   "_duration": 1,
@@ -13,17 +13,17 @@
         {
           "frame": 0,
           "value": [
-            16,
-            606
+            -790,
+            569
           ],
           "motionPath": [
             [
-              -31.4,
-              430,
-              -24.9,
-              518.8,
-              -37.9,
-              341.1
+              -622,
+              291,
+              -756,
+              384,
+              -492,
+              201
             ]
           ],
           "curve": "cubicOut"
@@ -31,8 +31,8 @@
         {
           "frame": 1,
           "value": [
-            46.2,
-            257.1
+            -261,
+            204
           ],
           "motionPath": []
         }
