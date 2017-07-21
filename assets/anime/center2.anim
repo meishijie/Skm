@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "center2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            1074,
+            -473
+          ],
+          "motionPath": [
+            [
+              564,
+              -262,
+              809,
+              -396,
+              367,
+              -153
+            ]
+          ],
+          "curve": "cubicOut"
+        },
+        {
+          "frame": 1,
+          "value": [
+            179,
+            17
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}
