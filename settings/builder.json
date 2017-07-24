@@ -7,7 +7,7 @@
   "includeSdk": [
     "anysdk"
   ],
-  "inlineSpriteFrames": true,
+  "inlineSpriteFrames": false,
   "inlineSpriteFrames_native": true,
   "mergeStartScene": false,
   "oauthLoginServer": "",
